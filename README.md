@@ -10,7 +10,7 @@ This project is a hands-on way to explore Rust's ecosystem, focusing on GUI deve
 
 1. **Text Editor**: A basic text editor to create, edit, and save text files.
 2. **Graph View**: A visual representation of data (e.g., nodes and edges) to explore graph algorithms or visualize relationships.
-(3. **Maybe Future Features**: Additional features like file management, settings, or integrations with other tools may be added as the project evolves.)
+3. **Maybe Future Features**: Additional features like file management, settings, or integrations with other tools may be added as the project evolves.
 
 ## Getting Started
 
