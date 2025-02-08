@@ -23,5 +23,25 @@ This project is a hands-on way to explore Rust's ecosystem, focusing on GUI deve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rust-egui-learning-project.git
-   cd rust-egui-learning-project
+   git clone https://github.com/madebyvoit/rustless.git
+   cd rustless
+
+
+2. Build the project:
+   ```bash
+   cargo build
+
+3. Build the project:
+   ```bash
+   cargo run
+
+### Project structure
+   - coming soon...
+
+## Contributing
+   This project is primarily for my personal learning, but if you're interested in contributing, feel free to open an issue or submit a pull request. Suggestions for improvements or new features are always welcome!
+
+## Resources
+ - [Rust Documentation](https://doc.rust-lang.org/book/)
+ - [egui Documentation](https://docs.rs/egui/latest/egui/)
+ - [egui GitHub Repository](https://github.com/emilk/egui)
