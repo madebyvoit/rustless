@@ -6,7 +6,7 @@ Welcome to my Rust learning project! This repository is dedicated to helping me 
 
 This project is a hands-on way to explore Rust's ecosystem, focusing on GUI development using the `egui` library. `egui` is an immediate mode GUI library that is simple, fast, and portable, making it a great choice for learning and building desktop applications.
 
-### Features
+### Planned Features
 
 1. **Text Editor**: A basic text editor to create, edit, and save text files.
 2. **Graph View**: A visual representation of data (e.g., nodes and edges) to explore graph algorithms or visualize relationships.
